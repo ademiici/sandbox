@@ -1,7 +1,7 @@
 /*console.log('Hello world!');
 
-let firstName = 'Adura';
-const lastName = 'Adegboye';
+let firstName = 'Ad';
+const lastName = 'A';
 
 console.log(firstName);
 console.log(lastName);
@@ -14,7 +14,7 @@ console.log(lastName);
 
 let val;
 
-let fName = 'Adura';
+let fName = 'Ad';
 val = fName;
 
 // number
@@ -67,31 +67,31 @@ console.log(person.address.city);
 const studentsUptech = [
     {
         id: 1,
-        fname: "Adura",
+        fname: "A",
         age: 23,
         isGraduate: true,
     },
     {
         id: 2,
-        fname: "Adura",
+        fname: "A",
         age: 23,
         isGraduate: true,
     },
     {
         id: 3,
-        fname: "Adura",
+        fname: "A",
         age: 23,
         isGraduate: true,
     },
     {
         id: 4,
-        fname: "Adura",
+        fname: "A",
         age: 23,
         isGraduate: true,
     },
     {
         id: 5,
-        fname: "Adura",
+        fname: "A",
         age: 23,
         isGraduate: false,
     }
@@ -145,7 +145,7 @@ switch((theWeather).toLowerCase()){
         break;
 }
 
-function greets(name= 'Adura') {
+function greets(name= 'A') {
     console.log(`hello, how are you ${name}`);
 }
 greets()

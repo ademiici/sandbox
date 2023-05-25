@@ -38,7 +38,7 @@ function addTask(e){
 
         // create link
         const link = document.createElement('a');
-        link.className = 'float-end text-danger';
+        link.className = 'float-end text-muted';
         link.innerHTML = '<i class="bi bi-trash"></i>'
 
         lis.appendChild(link);
