@@ -64,7 +64,7 @@ function clearTask(e){
     e.preventDefault();
     ul.innerText = '';
     // message
-    msg.innerHTML = 'Task Cleared Successfully!';
+    msg.innerHTML = 'Tasks Cleared Successfully!';
         msg.classList.add('success');
 
     setTimeout (function(){
